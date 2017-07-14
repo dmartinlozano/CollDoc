@@ -1,0 +1,15 @@
+{
+  "name": "jasmine-reporters",
+  "homepage": "https://github.com/larrymyers/jasmine-reporters",
+  "version": "2.0.3",
+  "_release": "2.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.0.3",
+    "commit": "74fb4a99dc8db74bdf84d4e976bb701e6b3b0a8a"
+  },
+  "_source": "git://github.com/larrymyers/jasmine-reporters.git",
+  "_target": "~2.0.3",
+  "_originalSource": "jasmine-reporters",
+  "_direct": true
+}

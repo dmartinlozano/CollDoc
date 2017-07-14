@@ -1,0 +1,1 @@
+angular.module('CollDoc', ['ngRoute', 'ui.bootstrap', 'angularBootstrapNavTree', 'ngSanitize', 'ui.tree', 'textAngular', 'ngTable', 'angularFileUpload', 'base64']);
